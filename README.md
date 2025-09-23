@@ -16,7 +16,7 @@
 
 
 [![LeetCode Streak](https://leetcard.jacoblin.cool/amalthomas1324?theme=dark&ext=heatmap)](https://leetcode.com/amalthomas1324)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amalthomas1324?theme=dark)](https://leetcode.com/amalthomas1324)
+
 
 
 ---
