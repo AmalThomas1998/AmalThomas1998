@@ -22,11 +22,7 @@
 [![LeetCode Streak](https://leetcard.jacoblin.cool/amalthomas1324?theme=dark&ext=heatmap)](https://leetcode.com/amalthomas1324)
 
 </td>
-<td>
 
-[![HackerRank](https://www.hackerrank.com/badges/profile/amalthomas1324)](https://www.hackerrank.com/profile/amalthomas1324)
-
-</td>
 </tr>
 <tr>
 <td>
