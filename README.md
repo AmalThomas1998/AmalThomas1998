@@ -8,13 +8,13 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/amal-thomas-9005a7185/) • [GitHub](https://github.com/AmalThomas1998/) • [LeetCode / Code Practice]()
+[LinkedIn](https://www.linkedin.com/in/amal-thomas-9005a7185/) • [GitHub](https://github.com/AmalThomas1998/) 
 
 ---
 
 ## 📈 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amalthomas1324?theme=dark&ext=contest)](https://leetcode.com/amalthomas1324)  
+
 [![LeetCode Streak](https://leetcard.jacoblin.cool/amalthomas1324?theme=dark&ext=heatmap)](https://leetcode.com/amalthomas1324)
 
 ---
